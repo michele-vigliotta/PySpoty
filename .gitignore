@@ -1,5 +1,3 @@
 *
-!PySpoty/
-!PySpoty/main.py
+!main.py
 !.gitignore
-# Ignora tutto tranne i file specificati
